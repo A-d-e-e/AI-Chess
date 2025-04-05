@@ -1,5 +1,5 @@
 # Chess Game - Shallow Green  
-
+ 
 A classic chess game built with Python and Pygame, featuring:  
 
 - **Two-player mode** - Play against a friend on the same device  
