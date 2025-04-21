@@ -2,7 +2,7 @@
  
 A classic chess game built with Python and Pygame, featuring:  
 
-- **Two-player mode** - Play against a friend on the same device  
+- **Two-player mode** - Play against a friend on the same device   
 - **AI opponent** - Challenge the computer with adjustable difficulty  
 - **Smooth animations** - Piece movements with drag-and-drop or click-to-move  
 - **Visual cues** - Highlights for valid moves, checks, and captures  
